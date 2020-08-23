@@ -28,13 +28,13 @@ function App() {
       id: 2,
       username: 'sungyun',
       email: 'sungyun@gmail.com',
-      active: false
+      active: true
     },
     {
       id: 3,
       username: 'liz',
       email: 'liz@example.com',
-      active: false
+      active: true
     }
   ]);
 
